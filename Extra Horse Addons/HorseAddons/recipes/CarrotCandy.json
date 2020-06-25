@@ -1,0 +1,23 @@
+    {
+        "type": "minecraft:crafting_shaped",
+        "pattern": [
+            "000",
+            "111",
+            "202"
+        ],
+        "key": {
+            "1": {
+                "item": "minecarft:leather"
+            },
+            "2": {
+                "item": "minecraft:iron_nugget"
+            },
+            "0": {
+                "item": "air"
+            }
+        },
+        "result": {
+            "item": "minecraft:saddle",
+            "count": 1
+        }
+    }
